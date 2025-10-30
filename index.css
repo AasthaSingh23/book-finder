@@ -1,0 +1,8 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Add a custom style for description truncation if needed */
+/* The line-clamp-2 class is often included by the Tailwind Typography plugin
+   but for this example, the basic utility classes we used are standard. */
